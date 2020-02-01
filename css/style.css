@@ -1,0 +1,94 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+.bg-red {
+    background: red;
+}
+.bg-green {
+    background: green;
+}
+.bg-yellow {
+    background: yellow;
+}
+
+.container {
+    white-space: nowrap;
+}
+.flex {
+    display: flex;
+}
+
+.flex-inline {
+    display: inline-flex;
+}
+.wrap {
+    flex-wrap: wrap;
+}
+
+.m {
+    margin: 3px;
+}
+
+
+/** Height and Widths */
+.h-20 {
+    height: 18.9%;
+}
+.h-25 {
+    height: 23.9%;
+}
+.h-30 {
+    height: 28.9%;
+}
+.h-35 {
+    height: 33.9%;
+}
+.h-40 {
+    height: 38.9%;
+}
+.h-50 {
+    height: 48.9%;
+}
+.h-60 {
+    height: 58.5%;
+}
+.h-70 {
+    height: 68.9%;
+}
+.h-100 {
+    height: 98.9%;
+}
+
+.w-20 {
+    width: 18.9%;
+}
+.w-25 {
+    width: 23.9%;
+}
+.w-30 {
+    width: 28.9%;
+}
+.w-35 {
+    width: 33.9%;
+}
+.w-40 {
+    width: 48.9%;
+}
+.w-50 {
+    width: 48.9%;
+}
+.w-75 {
+    width: 73.9%;
+}
+.w-80 {
+    width: 78.9%;
+}
+.w-100 {
+    width: 98.9%;
+}
